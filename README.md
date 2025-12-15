@@ -1,16 +1,23 @@
-## Hi there 👋
+# Burak Soyak
 
-<!--
-**absoyak/absoyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer with 20 years in broadcast TV, building real-time graphics and data systems for live production.
 
-Here are some ideas to get you started:
+Over the years I’ve worked across everything from local matches to major international events — including UEFA Champions League broadcasts, CEV Volleyball Final Four, and global powerboat racing — delivering on-air graphics, timing/data integrations, and automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve built systems such as:
+- election graphics and results pipelines
+- channel branding/logo automation
+- promo/ad and playout-related automation
+- graphics tools for operators (editor/controller/engine style workflows)
+
+Today I’m based in the UK (Reading) and continue to travel internationally for powerboat racing events, focusing on production-grade software for live graphics and data.
+
+I hold an AWS Cloud certification and I’m currently studying Machine Learning and Artificial Intelligence at Imperial College London to deepen my ML/AI skills and build a strong applied portfolio.
+
+## Focus areas
+- Computer vision and applied ML for broadcast workflows
+- Real-time data pipelines and automation
+- Production-ready engineering (Python, C#/.NET, Docker, SQL, AWS)
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/absoyak
