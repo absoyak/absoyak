@@ -1,23 +1,31 @@
 # Burak Soyak
 
-I’m a software developer with 20 years in broadcast TV, building real-time graphics and data systems for live production.
+Production software engineer (20+ years) specialising in real-time broadcast systems, live graphics and data pipelines.
 
-Over the years I’ve worked across everything from local matches to major international events — including UEFA Champions League broadcasts, CEV Volleyball Final Four, and global powerboat racing — delivering on-air graphics, timing/data integrations, and automation workflows.
+Currently expanding into applied Machine Learning and Computer Vision (Imperial College London).
 
-I’ve built systems such as:
-- election graphics and results pipelines
-- channel branding/logo automation
-- promo/ad and playout-related automation
-- graphics tools for operators (editor/controller/engine style workflows)
+---
 
-Today I’m based in the UK (Reading) and continue to travel internationally for powerboat racing events, focusing on production-grade software for live graphics and data.
+## What I build
 
-I hold an AWS Cloud certification and I’m currently studying Machine Learning and Artificial Intelligence at Imperial College London to deepen my ML/AI skills and build a strong applied portfolio.
+- Real-time graphics & automation systems
+- Live data pipelines (timing, results, integrations)
+- Production-grade ML prototypes
+- GPU-accelerated computer vision pipelines
 
-## Focus areas
-- Computer vision and applied ML for broadcast workflows
-- Real-time data pipelines and automation
-- Production-ready engineering (Python, C#/.NET, Docker, SQL, AWS)
+---
+
+## Tech Stack
+
+Python • C#/.NET • SQL • Docker • AWS  
+PyTorch • OpenCV • Detectron2 • CUDA • TensorRT
+
+---
+
+## Focus
+
+Bringing ML into real-world, low-latency production environments.
+
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/absoyak
