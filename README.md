@@ -30,6 +30,11 @@ Professional Certificate — 100% on all assessed work.
   Gaussian Processes and custom acquisition strategies.
 - **CV Playground** — Ongoing: CUDA benchmarks, model evals, NDI capture, 
   detection experiments.
+- **LapData — F1H2O Race Intelligence System** — End-to-end AI pipeline on real 
+  F1H2O powerboat racing data. Circuit visualisation (Leaflet.js), SQL Server 
+  telemetry schema, FastAPI backend, LangChain agent with SQL + RAG + prediction 
+  tools, local LLM (Ollama). Built as a portfolio demonstrating full AI engineering 
+  stack on domain-specific sports data.
 
 ---
 
@@ -37,6 +42,7 @@ Professional Certificate — 100% on all assessed work.
 
 Python · C#/.NET · PyTorch · OpenCV · Detectron2 · CUDA · TensorRT  
 FFmpeg · NDI · Docker · AWS · SQL Server
+LangChain · FastAPI · Ollama · SQLAlchemy
 
 ---
 
